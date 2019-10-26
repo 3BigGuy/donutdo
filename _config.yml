@@ -19,9 +19,9 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://donutdo.com'
 baseurl: ''
-title: 'My website'
+title: 'donutDo'
 description: 'This is my new website'
 permalink: pretty
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
@@ -41,7 +41,7 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
-- title: Back to top
+- title: ^
   url: "#top"
 
 # Collections
