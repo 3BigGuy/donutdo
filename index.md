@@ -1,7 +1,7 @@
 ---
 title: Welcome to my website
 layout: page
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "https://he-s3.s3.amazonaws.com/media/avatars/srikanth695/resized/160/fa84c33galshir-astronaut-wallpaper.jpg"
 feature_text: |
   ## donutDo.com
 ---
