@@ -24,7 +24,7 @@ baseurl: ''
 title: 'donutDo'
 description: 'This is my new website'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "https://he-s3.s3.amazonaws.com/media/avatars/srikanth695/resized/160/fa84c33galshir-astronaut-wallpaper.jpg"
 
 # Pagination
 paginate: 5
